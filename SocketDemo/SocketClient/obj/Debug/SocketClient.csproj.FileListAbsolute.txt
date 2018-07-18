@@ -1,0 +1,6 @@
+E:\MyProject\Demo\DemoofMVC\SocketClient\bin\Debug\SocketClient.exe.config
+E:\MyProject\Demo\DemoofMVC\SocketClient\bin\Debug\SocketClient.exe
+E:\MyProject\Demo\DemoofMVC\SocketClient\bin\Debug\SocketClient.pdb
+E:\MyProject\Demo\DemoofMVC\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+E:\MyProject\Demo\DemoofMVC\SocketClient\obj\Debug\SocketClient.exe
+E:\MyProject\Demo\DemoofMVC\SocketClient\obj\Debug\SocketClient.pdb

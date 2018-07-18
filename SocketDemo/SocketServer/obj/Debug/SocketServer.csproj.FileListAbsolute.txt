@@ -1,0 +1,7 @@
+E:\MyProject\Demo\DemoofMVC\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+E:\MyProject\Demo\DemoofMVC\SocketServer\bin\Debug\SocketServer.exe.config
+E:\MyProject\Demo\DemoofMVC\SocketServer\bin\Debug\SocketServer.exe
+E:\MyProject\Demo\DemoofMVC\SocketServer\bin\Debug\SocketServer.pdb
+E:\MyProject\Demo\DemoofMVC\SocketServer\obj\Debug\SocketServer.exe
+E:\MyProject\Demo\DemoofMVC\SocketServer\obj\Debug\SocketServer.pdb
+E:\MyProject\Demo\DemoofMVC\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
