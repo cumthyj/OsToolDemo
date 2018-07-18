@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: lightgrey;
+        }
+    </style>
+     <script src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script>
+    <script>
+    </script>
+</head>
+
+<body>
+    <div><label>微服务参数</label>
+        <input type="text">
+        <button onclick="getApi()">invoke</button>
+    </div>
+</body>
+<script>
+    function getApi(){
+        $.get("https://cumthyj.lib.id/sample@dev/",function(r){
+                alert(r);
+        })
+    }
+</script>
+
+</html>
