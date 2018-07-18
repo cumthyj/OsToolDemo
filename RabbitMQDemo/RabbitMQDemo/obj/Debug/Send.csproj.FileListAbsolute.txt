@@ -1,0 +1,13 @@
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\Newtonsoft.Json.dll
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\RabbitMQ.Client.dll
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\Newtonsoft.Json.xml
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\RabbitMQ.Client.xml
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\obj\Debug\Send.csproj.CoreCompileInputs.cache
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\obj\Debug\Send.csproj.CopyComplete
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\Send.exe.config
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\Send.exe
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\Send.pdb
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\obj\Debug\Send.exe
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\obj\Debug\Send.pdb

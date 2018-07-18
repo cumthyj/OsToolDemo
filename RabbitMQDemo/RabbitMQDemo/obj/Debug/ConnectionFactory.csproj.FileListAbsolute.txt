@@ -1,0 +1,14 @@
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\RabbitMQDemo.exe.config
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\RabbitMQDemo.exe
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\RabbitMQDemo.pdb
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\Newtonsoft.Json.dll
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\RabbitMQ.Client.dll
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\Newtonsoft.Json.xml
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\bin\Debug\RabbitMQ.Client.xml
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\obj\Debug\ConnectionFactory.csprojAssemblyReference.cache
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\obj\Debug\ConnectionFactory.csproj.CoreCompileInputs.cache
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\obj\Debug\ConnectionFactory.csproj.CopyComplete
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\obj\Debug\RabbitMQDemo.exe
+E:\MyProject\RabbitMQDemo\RabbitMQDemo\obj\Debug\RabbitMQDemo.pdb

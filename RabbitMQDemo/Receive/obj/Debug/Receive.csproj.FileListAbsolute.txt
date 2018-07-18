@@ -1,0 +1,12 @@
+E:\MyProject\RabbitMQDemo\Receive\bin\Debug\Receive.exe.config
+E:\MyProject\RabbitMQDemo\Receive\bin\Debug\Receive.exe
+E:\MyProject\RabbitMQDemo\Receive\bin\Debug\Receive.pdb
+E:\MyProject\RabbitMQDemo\Receive\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\MyProject\RabbitMQDemo\Receive\bin\Debug\RabbitMQ.Client.dll
+E:\MyProject\RabbitMQDemo\Receive\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\MyProject\RabbitMQDemo\Receive\bin\Debug\RabbitMQ.Client.xml
+E:\MyProject\RabbitMQDemo\Receive\obj\Debug\Receive.csproj.CoreCompileInputs.cache
+E:\MyProject\RabbitMQDemo\Receive\obj\Debug\Receive.csproj.CopyComplete
+E:\MyProject\RabbitMQDemo\Receive\obj\Debug\Receive.exe
+E:\MyProject\RabbitMQDemo\Receive\obj\Debug\Receive.pdb
+E:\MyProject\RabbitMQDemo\Receive\obj\Debug\Receive.csprojAssemblyReference.cache
